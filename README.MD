@@ -6,7 +6,7 @@ Proper documentation and examples will be uploaded in near future, as well as bu
 
 Currently available functionality is in the following scripts:
 PREPROC.m,
-CALC_FILTERED_ERPD.m,
+CALC_FILTERED_TEPR.m,
 GET_TRIALCHANGES.m
 
 This is a little demo plot of one of my analyses made with this pipeline:
