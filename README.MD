@@ -18,4 +18,4 @@ Feel free to message me or open a discussion here if you have any suggestion or 
 
 Author: Gábor Bényei @ BUTE
 
-License: GNU GPL v3
+License: BSD
